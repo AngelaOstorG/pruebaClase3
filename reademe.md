@@ -1,3 +1,3 @@
 # Aca uno pone la descripcion del proyecto
 # que hace esta carpeta, que hace este proyecto
-# que tecnologia usa
+# que tecnologia usa en este proyecto
